@@ -1,0 +1,17 @@
+.python-version
+result*
+patches
+/*/build
+/*/__pycache__
+cfun*.c
+cfun*.cpp
+cfun*.so
+*.pdf
+*.md
+!README.md
+*boost*
+/batch_log/*
+!/batch_log/.gitkeep
+/download/*
+!/download/.gitkeep
+libqhull_r
