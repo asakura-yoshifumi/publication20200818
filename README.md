@@ -1,9 +1,7 @@
-# Codes for Asakura et al. 2021
-The full code will be uploaded after the publication.
-
+# Codes for "Hierarchical modeling of mechano-chemical dynamics of epithelial sheets across cells and tissue"
 
 ## 1. Citation
-The citation information will be updated after the publication.
+Asakura, Y., Kondo, Y., Aoki, K. et al. Hierarchical modeling of mechano-chemical dynamics of epithelial sheets across cells and tissue. Sci Rep 11, 4069 (2021). https://doi.org/10.1038/s41598-021-83396-6
 
 ## 2. License
 Copyright (c) 2021 Yoshifumi Asakura
